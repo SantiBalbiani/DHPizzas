@@ -1,0 +1,87 @@
+[
+ {
+  "esParaLlevar": false,
+  "nombreVisitante": "t",
+  "telefono": "4",
+  "gustoElegido": "muzza",
+  "tamanio": "grande",
+  "llevaBebida": false,
+  "esClienteHabitual": false,
+  "adicionales": [],
+  "fecha": "2019-11-06",
+  "hora": "11:10:07 PM",
+  "totalProductos": 650,
+  "descuento": 0,
+  "numeroPedido": 1
+ },
+ {
+  "esParaLlevar": false,
+  "nombreVisitante": "3",
+  "telefono": "3",
+  "gustoElegido": "muzza",
+  "tamanio": "grande",
+  "llevaBebida": false,
+  "esClienteHabitual": false,
+  "adicionales": [],
+  "fecha": "2019-11-06",
+  "hora": "11:10:17 PM",
+  "totalProductos": 650,
+  "descuento": 0,
+  "numeroPedido": 2
+ },
+ {
+  "esParaLlevar": false,
+  "nombreVisitante": "7",
+  "telefono": "7",
+  "gustoElegido": "muzza",
+  "tamanio": "grande",
+  "llevaBebida": false,
+  "esClienteHabitual": false,
+  "adicionales": [],
+  "fecha": "2019-11-06",
+  "hora": "11:10:23 PM",
+  "totalProductos": 650,
+  "descuento": 0,
+  "numeroPedido": 3
+ },
+ {
+  "esParaLlevar": false,
+  "nombreVisitante": "5",
+  "telefono": "5",
+  "gustoElegido": "muzza",
+  "tamanio": "grande",
+  "llevaBebida": false,
+  "esClienteHabitual": false,
+  "adicionales": [],
+  "fecha": "2019-11-06",
+  "hora": "11:23:15 PM",
+  "totalProductos": 650,
+  "descuento": 0,
+  "numeroPedido": 4
+ },
+ {
+  "esParaLlevar": true,
+  "direccion": "ssss",
+  "nombreVisitante": "ww",
+  "telefono": "22",
+  "gustoElegido": "jamon y morron",
+  "tamanio": "personal",
+  "llevaBebida": true,
+  "gustoBebida": "Fanta",
+  "esClienteHabitual": true,
+  "adicionales": [
+   "pepperoni",
+   "tomate"
+  ],
+  "gustosEmpanada": [
+   "Capresse",
+   "JyQ",
+   "verdura"
+  ],
+  "fecha": "2019-11-11",
+  "hora": "8:16:13 AM",
+  "totalProductos": 510,
+  "descuento": 15.299999999999999,
+  "numeroPedido": 5
+ }
+]
